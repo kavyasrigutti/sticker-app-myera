@@ -11,7 +11,7 @@ const Canvas = ({ stageRef, stickers, onUpdateSticker, onDeleteSticker }) => {
     onDeleteSticker(stickerId);
   };
 
-  // Generate grid lines
+  // Create grid lines for the canvas
   const gridLines = [];
   const gridSize = 40;
   const canvasWidth = 600;
