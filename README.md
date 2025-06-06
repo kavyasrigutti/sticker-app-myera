@@ -43,8 +43,8 @@ myera-sticker-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/myera-sticker-app.git
-cd myera-sticker-app
+git clone https://github.com/kavyasrigutti/sticker-app-myera.git
+cd sticker-app-myera
 
 2. Install Dependencies
 
